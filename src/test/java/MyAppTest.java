@@ -12,7 +12,7 @@ public class MyAppTest {
     @Test
     public void multiplyTest() {
         int answer = Main.multiply(20, 40);
-        Assert.assertEquals(answer, 600);
+        Assert.assertEquals(answer, 800);
     }
 
 
