@@ -2,6 +2,7 @@ plugins {
     id 'java'
 }
 
+apply plugin: 'jacoco'
 group 'org.example'
 version '1.0-SNAPSHOT'
 
