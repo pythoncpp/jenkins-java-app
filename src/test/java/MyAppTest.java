@@ -15,10 +15,5 @@ public class MyAppTest {
         Assert.assertEquals(answer, 800);
     }
 
-    @Test
-    public void multiplyTestFailure() {
-        int answer = Main.multiply(20, 40);
-        Assert.assertEquals(answer, 600);
-    }
 
 }
